@@ -3,6 +3,8 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/java/com/example/jlapa/mvdm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MyApplication" vcs="Git" />
     <mapping directory="$USER_HOME$/Documents/ICT scholingstraject/Android" vcs="Git" />
     <mapping directory="D:/Android" vcs="Git" />
     <mapping directory="D:/Github/PortableGit" vcs="Git" />
